@@ -177,4 +177,4 @@ After completing the first day of training, I was able to:
 
 ## Conclusion
 
-Day 01 provided a strong introduction to HTML and its core concepts. Along with learning the theory, I completed practical exercises for every topic, which improved my understanding of how web pages are built. The session helped me gain confidence in writing basic HTML code and understanding the purpose of different HTML elements. This knowledge will serve as the foundation for upcoming topics such as CSS, JavaScript, Bootstrap, React, and other technologies used in the MERN Stack.
+Day 01 provided a strong introduction to HTML and its core concepts. Along with learning the theory, I completed practical exercises for every topic, which improved my understanding of how web pages are built. The session helped me gain confidence in writing basic HTML code and understanding the purpose of different HTML elements. This knowledge will serve as the foundation for upcoming topics such as CSS, JavaScript, Bootstrap, React, and other technologies used in the MERN Stack .
