@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Selectors Example</title>
+
+    <style>
+
+        *{
+            font-family: Verdana;
+        }
+
+        h1{
+            color: darkblue;
+        }
+
+        .text{
+            color: green;
+        }
+
+        #title{
+            background-color: lightpink;
+        }
+
+        article p{
+            color: brown;
+        }
+
+        div > p{
+            color: purple;
+        }
+
+        h2 + p{
+            color: orange;
+        }  
+
+        h3 ~ p{
+            color: red;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <h1>Element Selector Example</h1>
+
+    <p class="text">This paragraph uses the Class Selector.</p>
+
+    <h2 id="title">ID Selector Example</h2>
+
+    <article>
+        <p>This paragraph uses the Descendant Selector.</p>
+    </article>
+
+    <div>
+        <p>This is a direct child paragraph.</p>
+    </div>
+
+    <h2>Adjacent Sibling Selector</h2>
+    <p>This paragraph is selected using the Adjacent Sibling Selector.</p>
+
+    <h3>General Sibling Selector</h3>
+
+    <span>This is a span element.</span>
+
+    <p>First General Sibling Paragraph</p>
+
+    <p>Second General Sibling Paragraph</p>
+
+</body>
+</html>
