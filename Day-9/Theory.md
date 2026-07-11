@@ -1,4 +1,4 @@
-# Day 09 - Functions and Arrow Functions
+# Day-09 - Functions and Arrow Functions
 
 ## Overview
 
