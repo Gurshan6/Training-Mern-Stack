@@ -1,6 +1,3 @@
-Here's a rewritten version with the **same meaning** but different wording, suitable for a **GitHub README** or internship report.
-
----
 
 # Day 02 - HTML Forms
 
